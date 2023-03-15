@@ -1,0 +1,4 @@
+Phone
+Laptop
+Tv
+Tablet
